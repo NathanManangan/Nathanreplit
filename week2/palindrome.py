@@ -1,4 +1,4 @@
-weekimport re
+import re
 
 class Palindrome:
   def __call__(self, n):

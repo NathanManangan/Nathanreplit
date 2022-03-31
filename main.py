@@ -55,8 +55,8 @@ math_list = [
   ["Factorial", fibfac.factorial],
   ["Fibonacci", fibfac.output_fibonacci],
   ["Factorial OOP", factorial.tester],
-  ["Greatest Common Factor", gcf.greatestcommonfactor],
-  ["Palindrome", palindrome.tester]
+  ["Palindrome", palindrome.tester],
+  ["Greatest Common Factor", gcf.greatestcommonfactor]
 # ["Find Factors", fibfac.find_factors]
 ]
 
